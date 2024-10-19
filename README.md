@@ -1,4 +1,3 @@
-Aqui está o README atualizado com as informações sobre os links de acesso:
 
 ```markdown
 # Desafio Neurotech - API REST para Cadastro de Produtos
