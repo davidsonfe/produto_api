@@ -68,4 +68,3 @@ Após subir o projeto, você pode acessar a API através do seguinte link:
 - **Swagger UI:** [http://18.207.231.146:8000/swagger-ui/swagger-ui/index.html#/](http://18.207.231.146:8000/swagger-ui/swagger-ui/index.html#/)
 ```
 
-Você pode copiar e colar esse conteúdo diretamente no seu arquivo README.md. Se precisar de mais alguma coisa, é só avisar!
