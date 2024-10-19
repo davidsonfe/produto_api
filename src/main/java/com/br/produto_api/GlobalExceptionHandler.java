@@ -18,7 +18,4 @@ public class GlobalExceptionHandler {
                 .body("An unexpected error occurred: " + ex.getMessage());
     }
 
-
-
-    // Adicione outros manipuladores de exceção específicos conforme necessário
 }
